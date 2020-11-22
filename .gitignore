@@ -33,3 +33,4 @@ out/
 target/*
 mvn*
 .mvn/
+.DS_Store
